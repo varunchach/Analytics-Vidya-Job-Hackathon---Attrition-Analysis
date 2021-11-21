@@ -24,7 +24,7 @@ I didnt find missing values in the given data.
 ![Raw_data_format](https://user-images.githubusercontent.com/58731031/142766986-3868c241-8d09-45f8-82dc-0971ef41af06.PNG)
 
 
-## Exploratory Data Analysis 
+# Exploratory Data Analysis 
 
 # Attrition on the basis of tenure
 
@@ -39,6 +39,7 @@ There was clear distinguishing fctor between attritors and non-attritors. As we 
 
 # Age wise distribution
 ![image](https://user-images.githubusercontent.com/58731031/142766716-55ad6860-a469-4a5e-b041-f312be6acc55.png)
+
 Our population was focused in the age groups 20-40. 
 
 
