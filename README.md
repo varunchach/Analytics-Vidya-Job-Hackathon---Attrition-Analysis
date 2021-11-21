@@ -34,6 +34,7 @@ People with Bachelor degree tend to stay less than those who haven't attrited ye
 
 ### Average Business value
 ![image](https://user-images.githubusercontent.com/58731031/142766691-03d599ed-3766-490f-b7e0-bcdd59d39be3.png)
+
 There was clear distinguishing fctor between attritors and non-attritors. As we can see attritors were not able to bring much value to business compared to non-attritors.
 
 
