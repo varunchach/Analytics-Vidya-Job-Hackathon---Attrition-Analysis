@@ -63,7 +63,8 @@ After trying out 4 algorithmic approacheson train data
 I found that catboost was best classifier among all.
 
 ### Catboost plot:-
-![CatBoost_plot](https://user-images.githubusercontent.com/58731031/142767682-4ef479a7-d998-422b-b0ab-5a27ff3683af.png)
+![CatBoost_plot](https://user-images.githubusercontent.com/58731031/142768222-e90277de-ef70-4f23-a742-3ee11ff6673b.png)
+
 
 
 
