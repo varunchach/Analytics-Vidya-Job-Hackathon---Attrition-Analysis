@@ -46,7 +46,7 @@ Our population was focused in the age groups 20-40.
 
 I have created multiple variables which helped me to understand saggergation between attritors and non-attritors like what was their maximum rating ,what was minimum rating ,tenure in days, average business value , average monthly salary and more.
 
-### Variable mutual information values after filtering highly correlated variables (>0.85)
+### Variable mutual information values after filtering out highly correlated variables (>0.85)
 ![image](https://user-images.githubusercontent.com/58731031/142766736-a1595c4e-01be-424f-93da-7fac0ee12a07.png)
 
 
